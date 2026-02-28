@@ -22,7 +22,7 @@ End-to-end ML project predicting heart disease from clinical parameters.
 
 3. Generate the model bundle (run the notebook top to bottom)
 ```bash
-   jupyter notebook notebook/heart_disease_improved.ipynb
+   jupyter notebook notebook/end-to-end-heart-disease-classification.ipynb
 ```
    This saves `model/heart_disease_bundle.pkl`
 
