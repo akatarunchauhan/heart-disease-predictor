@@ -11,7 +11,7 @@ End-to-end ML project predicting heart disease from clinical parameters.
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/yourusername/heart-disease-predictor
+   git clone https://github.com/akatarunchauhan/heart-disease-predictor
    cd heart-disease-predictor
 ```
 
